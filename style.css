@@ -72,6 +72,9 @@ h1{
     position:relative;
 }
 */
+/* h1{
+    float:left;
+} */
 
 .floatimage{
     float: left;
@@ -114,7 +117,7 @@ span{
     margin: 20px;
 }
 
-#header
+header
 {
 width: 100%;
 height: 100px;
